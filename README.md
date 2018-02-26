@@ -4,8 +4,8 @@ Choose a programming language in which you have no experience. Working with a pa
 ![lisp cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/lisp.jpg)
 
 ### Deliverables 
-1.  A program that manipulates a string (details below).
-2. Make a small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it.
+1. A program that manipulates a string (details below).
+2. A small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it.
 3. A 1-page reference to be compiled into a class “zine” (details below).
 4. 10-minute presentation (7 min presentation + 3 for questions) on assigned date (details below).
 
@@ -24,4 +24,9 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * Be creative and weird about it. Include pictures, illustrations, doodles, cool fonts, your own handwriting. Make a [cartoon](https://stackoverflow.com/questions/84556/whats-your-favorite-programmer-cartoon) about your language if you want to! 
 * Above all, make the page informative and give it personality! 
 
-
+#### 4. Presentation guidelines
+* Talk about the content in your zine page: What is this language all about? Who made it and why? (see zine prompts, above).
+* Walk us through your simple string program. How does this code look? 
+* Talk about the process for setting up your programming environment. Is this a compiled or an interpreted language? What supplemental tools did you need to install or access in order to work in this language? 
+* How was the learning curve in this language? Was it hard to get started and easier after a few days? Was it easy in the beginning and then hard? What challenges did you have to overcome? 
+* Anything else? Tell some good stories! 
