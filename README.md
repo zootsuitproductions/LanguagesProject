@@ -19,5 +19,7 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
     - What is the primary programming paradigm that this language uses?
    - What applications is this language best suited to? Give a specific example.
    - What applications would this language be a poor fit for? Give us an example.
+* Be creative and weird about it. Include pictures, doodles, cool fonts, your own handwriting. Make a cartoon about your language if you want to! 
+* Above all, make the page informative and give it personality! 
 
 
