@@ -13,6 +13,7 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 #### 3. Zine guidelines
 * Use 2 8.5x11 pages, so when we open the zine, we can see a full page spread about your language. 
 * Give us some background information about your programming language:
+<br/><br/>
     a) Tell us about the history of this language: when, where, and why was it developed? What are some interesting or notable projects it has been used for? 
     b) Tell us about the author or authors of this language. Who are they? Include a photo of the author(s). 
     c) What can it be used for? 
