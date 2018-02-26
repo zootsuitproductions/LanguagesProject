@@ -3,7 +3,9 @@ Choose a programming language in which you have no experience. Working with a pa
 
 ### Deliverables due March 21st
 1.  1 program that manipulates a string (i.e. a series of characters, i.e. a sentence) in the following way:
-  ⋅⋅*Get a sentence or sentences (string) from the user. 
+Get a sentence or sentences (string) from the user. 
+2. Another item
+⋅⋅* Unordered sub-list. 
   ⋅⋅*No matter their initial capitalization scheme, correct the capitalization as needed to make it into standard sentences (ie. where only the first letter of the first word in each sentence is capitalized). 
   ⋅⋅* For example, the sentence “octoPI are GreAT.” would become “Octopi are great.” 
   ⋅⋅* (Why do this?  different applications will highlight the features of a language better than others, and this small program will only scratch the surface of your programming language, but seeing the same program in multiple languages will at least allow everyone to compare syntax!)
