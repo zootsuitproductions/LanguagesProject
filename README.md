@@ -30,3 +30,6 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * Talk about the process for setting up your programming environment. Is this a compiled or an interpreted language? What supplemental tools did you need to install or access in order to work in this language? 
 * How was the learning curve in this language? Was it hard to get started and easier after a few days? Was it easy in the beginning and then hard? What challenges did you have to overcome? 
 * Anything else? Tell some good stories! 
+
+
+### Resources
