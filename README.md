@@ -35,9 +35,16 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 ![bart simpson arduino cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/bartarduino.png)
 
 ## Languages to check out:
-Clojure, Python, Snap!, Blockly, Logo, Javascript, Scheme/Lisp, Pure Data, Max/MSP, D, Go, Swift, Objective C, Perl, FORTRAN, Rust, [Ruby](http://tryruby.org/levels/1/challenges/0), Smalltalk, PHP, bash scripts, AppleScript, R, [Clojurescript](http://clojurescriptkoans.com/), Grasshopper, Lua, Ada, Prolog, SNOBOL, PL/1, ALGOL68, APL
+* Clojure, Python, Snap!, Blockly, Logo, Javascript, Scheme/Lisp, Pure Data, Max/MSP, D, Go, Swift, Objective C, Perl, FORTRAN, Rust, [Ruby](http://tryruby.org/levels/1/challenges/0), Smalltalk, PHP, bash scripts, AppleScript, R, [Clojurescript](http://clojurescriptkoans.com/), Grasshopper, Lua, Ada, Prolog, SNOBOL, PL/1, ALGOL68, APL
 
-[Programming Languages Created or Co-Created by Women (list started by Chris Martens)](https://docs.google.com/spreadsheets/d/151WuY1KXAgIcfU0d9LxJB_-CbY6aMF5cvyPDbjot_qs/edit?usp=sharing)
-[Non-English Based Programming Languages](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
-Some wacky ones in the category of “esoteric languages” (basically made for fun, not practicality - but you can learn a lot by writing something using one of these) [Chef](http://www.dangermouse.net/esoteric/chef.html), Shakespeare, ArnoldC, Piet
+* [Programming Languages Created or Co-Created by Women (list started by Chris Martens)](https://docs.google.com/spreadsheets/d/151WuY1KXAgIcfU0d9LxJB_-CbY6aMF5cvyPDbjot_qs/edit?usp=sharing)
+* [Non-English Based Programming Languages](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
+* Some wacky ones in the category of “esoteric languages” (basically made for fun, not practicality - but you can learn a lot by writing something using one of these) [Chef](http://www.dangermouse.net/esoteric/chef.html), [Shakespeare](http://shakespearelang.sourceforge.net/), [ArnoldC](http://lhartikk.github.io/ArnoldC/), [Piet](http://lhartikk.github.io/ArnoldC/)
+
+## Tutorials and Resources:
+(I'll build out this list once people have chosen their languages)
+* [Code Academy](https://www.codecademy.com/learn): Python, Javascript, Ruby, PHP, and more.
+* [Code School](https://www.codeschool.com/): similar list to Code Academy, + Objective C.
+* [Railsbridge](http://docs.railsbridge.org/intro-to-rails/): Classes and curriculum for Ruby on Rails.
+* [Interactive Introduction to Clojure](http://www.tryclj.com/) (Lisp) and for fun, [ClojureScript Koans](http://clojurescriptkoans.com/)
 
