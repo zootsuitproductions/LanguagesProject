@@ -35,6 +35,8 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 ![bart simpson arduino cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/bartarduino.png)
 
 ## Languages to check out:
+* [Chart comparing languages](http://programming.dojo.net.nz/resources/programming-language-comparison/index) 
+* [Lord of the Rings Info Graphic](http://carlcheo.com/startcoding)
 * Clojure, Python, Snap!, Blockly, Logo, Javascript, Scheme/Lisp, Pure Data, Max/MSP, D, Go, Swift, Objective C, Perl, FORTRAN, Rust, [Ruby](http://tryruby.org/levels/1/challenges/0), Smalltalk, PHP, bash scripts, AppleScript, R, [Clojurescript](http://clojurescriptkoans.com/), Grasshopper, Lua, Ada, Prolog, SNOBOL, PL/1, ALGOL68, APL
 
 * [Programming Languages Created or Co-Created by Women (list started by Chris Martens)](https://docs.google.com/spreadsheets/d/151WuY1KXAgIcfU0d9LxJB_-CbY6aMF5cvyPDbjot_qs/edit?usp=sharing)
