@@ -33,6 +33,7 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 
 # Resources
 ![bart simpson arduino cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/bartarduino.png)
+(Arduino is a library for C++)
 
 ## Languages to check out:
 * [Chart comparing languages](http://programming.dojo.net.nz/resources/programming-language-comparison/index) 
