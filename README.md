@@ -31,7 +31,8 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * How was the learning curve in this language? Was it hard to get started and easier after a few days? Was it easy in the beginning and then hard? What challenges did you have to overcome? 
 * Anything else? Tell some good stories! 
 
+# Resources
 ![bart simpson arduino cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/bartarduino.png)
 
 
-### Resources
+
