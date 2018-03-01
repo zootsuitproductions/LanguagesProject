@@ -45,9 +45,24 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * Some wacky ones in the category of “esoteric languages” (basically made for fun, not practicality - but you can learn a lot by writing something using one of these) [Chef](http://www.dangermouse.net/esoteric/chef.html), [Shakespeare](http://shakespearelang.sourceforge.net/), [ArnoldC](http://lhartikk.github.io/ArnoldC/), [Piet](http://lhartikk.github.io/ArnoldC/)
 
 ## Tutorials and Resources:
+### General Stuff
 (I'll build out this list once people have chosen their languages)
 * [Code Academy](https://www.codecademy.com/learn): Java, Python, Javascript, Ruby, PHP, and more.
 * [Code School](https://www.codeschool.com/): similar list to Code Academy, + Objective C.
 * [Railsbridge](http://docs.railsbridge.org/intro-to-rails/): Classes and curriculum for Ruby on Rails.
 * [Interactive Introduction to Clojure](http://www.tryclj.com/) (Lisp) and for fun, [ClojureScript Koans](http://clojurescriptkoans.com/)
 
+### Ruby
+* [Best IDEs for Ruby](https://blog.g2crowd.com/blog/integrated-development-environment-ide/whats-best-ide-ruby-development/)
+
+### Java
+* [Download and Install Eclipse](https://beginnersbook.com/2016/04/how-to-install-eclipse-on-mac-os-x/)
+* Code Academy Java tutorial is a good starting point. Once you've done that, there are a few built-in tutorials in Eclipse that will help you get oriented in the IDE. 
+
+### Swift
+* Install the latest version of X-Code (9.2 at time of writing). It comes with Swift. 
+
+### Go 
+* [Here's](https://golang.org/doc/install?download=go1.10.darwin-amd64.pkg) a getting started page. 
+* [This](https://github.com/joefitzgerald/go-plus) looks like a cool package for using Go with Atom.
+* And [here](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins) is a really long list of recommended IDEs and Text Editor Plugins for Go. 
