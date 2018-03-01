@@ -46,7 +46,7 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 
 ## Tutorials and Resources:
 (I'll build out this list once people have chosen their languages)
-* [Code Academy](https://www.codecademy.com/learn): Python, Javascript, Ruby, PHP, and more.
+* [Code Academy](https://www.codecademy.com/learn): Java, Python, Javascript, Ruby, PHP, and more.
 * [Code School](https://www.codeschool.com/): similar list to Code Academy, + Objective C.
 * [Railsbridge](http://docs.railsbridge.org/intro-to-rails/): Classes and curriculum for Ruby on Rails.
 * [Interactive Introduction to Clojure](http://www.tryclj.com/) (Lisp) and for fun, [ClojureScript Koans](http://clojurescriptkoans.com/)
