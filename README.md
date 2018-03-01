@@ -57,7 +57,7 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 
 ### Java
 * [Download and Install Eclipse](https://beginnersbook.com/2016/04/how-to-install-eclipse-on-mac-os-x/)
-* Code Academy Java tutorial is a good starting point. Once you've done that, there are a few built-in tutorials in Eclipse that will help you get oriented in the IDE. 
+* [Code Academy Java tutorial](https://www.codecademy.com/learn/learn-java) is a good starting point. Once you've done that, there are a few built-in tutorials in Eclipse that will help you get oriented in the IDE. 
 
 ### Swift
 * Install the latest version of X-Code (9.2 at time of writing). It comes with Swift. 
@@ -66,3 +66,8 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * [Here's](https://golang.org/doc/install?download=go1.10.darwin-amd64.pkg) a getting started page. 
 * [This](https://github.com/joefitzgerald/go-plus) looks like a cool package for using Go with Atom.
 * And [here](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins) is a really long list of recommended IDEs and Text Editor Plugins for Go. 
+
+### Python
+* The first thing you can do is run Python directly from the command line. [This tutorial](https://opentechschool.github.io/python-beginners/en/getting_started.html) will help you download the latest Python and tell you how to do that. 
+* The [Code Academy Python tutorial](https://www.codecademy.com/learn/learn-python) is great for familiarizing yourself with basic syntax.
+
