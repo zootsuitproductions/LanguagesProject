@@ -31,6 +31,9 @@ Get a sentence or sentences (string) from the user. No matter their initial capi
 * How was the learning curve in this language? Was it hard to get started and easier after a few days? Was it easy in the beginning and then hard? What challenges did you have to overcome? 
 * Anything else? Tell some good stories! 
 
+#### General Guidelines for Partner Work
+All work on the shared programs (string manipulation and your custom program) must be done with both partners in the same room (preferably looking at the same screen). You can do as much research and experimentation with the language as you want on your own. This stipulation is in place to preserve the delicate balance of project ownership among partner pairs. 
+
 # Resources
 ![bart simpson arduino cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/bartarduino.png)
 (Arduino is a library for C++)
