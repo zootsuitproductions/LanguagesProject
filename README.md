@@ -4,13 +4,17 @@ Choose a programming language in which you have no experience. Working with a pa
 ![lisp cartoon](https://github.com/lizzybrooks/LanguagesProject/blob/master/images/lisp.jpg)
 
 ### Deliverables 
-1. A program that manipulates a string (details below).
-2. A small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it.
-3. A 1-page reference to be compiled into a class “zine” (details below).
+1. A program that manipulates a string (details below). **DUE 3/19**
+2. A small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it. **DUE 3/26**
+3. A 1-page reference to be compiled into a class “zine” (details below). **In-Class Workday on 3/27**
 4. An informal presentation in which you go over the information included in your zine page. You will present with your partner after spring break.
 
 #### 1. String Program
 Get a sentence or sentences (string) from the user. No matter their initial capitalization scheme, correct the capitalization as needed to make it into standard sentences (ie. where only the first letter of the first word in each sentence is capitalized). For example, the sentence “octoPI are GreAT.” would become “Octopi are great.”
+**TO TURN IN YOUR PROGRAM:**
+* Create a GitHub Repository for your whole languages project. 
+* In that repo, make a file called StringProgram.your_language_suffix
+* Link to the repo from the projects.md file in this repository
 
 #### 3. Zine guidelines
 * Use 2 8.5x11 pages, so when we open the zine, we can see a full page spread about your language. 
