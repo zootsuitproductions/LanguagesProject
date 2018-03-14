@@ -73,6 +73,7 @@ All work on the shared programs (string manipulation and your custom program) mu
 * [Here's](https://golang.org/doc/install?download=go1.10.darwin-amd64.pkg) a getting started page. 
 * [This](https://github.com/joefitzgerald/go-plus) looks like a cool package for using Go with Atom.
 * And [here](https://github.com/golang/go/wiki/IDEsAndTextEditorPlugins) is a really long list of recommended IDEs and Text Editor Plugins for Go. 
+* Curious about how to make a web application in Go? Check out [this tutorial](https://golang.org/doc/articles/wiki/). 
 
 ### Python
 * The first thing you can do is run Python directly from the command line. [This tutorial](https://opentechschool.github.io/python-beginners/en/getting_started.html) will help you download the latest Python and tell you how to do that. 
