@@ -7,7 +7,7 @@ Choose a programming language in which you have no experience. Working with a pa
 1. A program that manipulates a string (details below).
 2. A small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it.
 3. A 1-page reference to be compiled into a class “zine” (details below).
-4. 10-minute presentation (7 min presentation + 3 for questions) on assigned date (details below).
+4. An informal presentation in which you go over the information included in your zine page. You will present with your partner after spring break.
 
 #### 1. String Program
 Get a sentence or sentences (string) from the user. No matter their initial capitalization scheme, correct the capitalization as needed to make it into standard sentences (ie. where only the first letter of the first word in each sentence is capitalized). For example, the sentence “octoPI are GreAT.” would become “Octopi are great.”
