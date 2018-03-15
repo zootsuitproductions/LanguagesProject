@@ -8,8 +8,7 @@ Choose a programming language in which you have no experience. Working with a pa
 2. A small program of your own choice that you believe showcases your chosen language well, or explores some interesting and unique aspect of it. **DUE 3/26**
 3. A 1-page reference to be compiled into a class “zine” (details below). **In-Class Workday on 3/27**
 4. An informal presentation in which you go over the information included in your zine page. You will present with your partner after spring break.
-
-##### [Rubric](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
+### [Rubric](https://docs.google.com/spreadsheets/d/1gjmgkMsPOTX1_vrfAiLvYJhuuomyxJPCz-fxnbw2QoQ/edit?usp=sharing)
 
 #### 1. String Program
 Get a sentence or sentences (string) from the user. No matter their initial capitalization scheme, correct the capitalization as needed to make it into standard sentences (ie. where only the first letter of the first word in each sentence is capitalized). For example, the sentence “octoPI are GreAT.” would become “Octopi are great.”
